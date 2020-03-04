@@ -37,8 +37,24 @@ This example contains some training data and the main files needed to build an a
     
 
 ### Sample Chat   
+```
+Your input ->  Hi                                                                                                                                                                                           
+Hey! How are you?
+Your input ->  I am good and you?                                                                                                                                                                           
+Great, carry on!
+Your input ->  I am happy                                                                                                                                                                                   
+Great, carry on!
+Your input ->  I am sad                                                                                                                                                                                                                                                                                                                                                                             
+Here is something to cheer you up:
+Image: https://i.imgur.com/nGF1K8f.jpg
+Did that help you?
+Your input ->  are you bot?                                                                                                                                                                                
+I am a bot, powered by Rasa.
+Your input ->  okay, Thanks!                                                                                                                                                                                
+Bye
+Your input -> /stop
+```                                                                                                                                                                                              
 
-
-Bot loaded. Type a message and press enter (use '/stop' to exit): Your input -> hi Hey! How are you? Your input -> perfect Great, carry on! Your input -> are you a bot? I am a bot, powered by Rasa. Your input -> /stop
 Reference
+
 [https://rasa.com/docs/getting-started/]
