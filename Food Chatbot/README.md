@@ -1,7 +1,9 @@
-food-chatbot
+# food-chatbot
 
 This is the Complete Version of the Chatbot and can be directly used with slack by filling slack_credentials.yml and Zomato API's key in the actions.py files.
-Setup and installation
+
+
+## Setup and installation
 
 If you haven’t installed Rasa NLU and Rasa Core yet, you can do it by navigating to the project directory and running:
 
