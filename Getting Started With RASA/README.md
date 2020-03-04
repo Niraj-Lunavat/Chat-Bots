@@ -37,6 +37,7 @@ This example contains some training data and the main files needed to build an a
     
 
 ### Sample Chat   
+Here is my basic chat with Rasa ChatBot
 ```
 Your input ->  Hi                                                                                                                                                                                           
 Hey! How are you?
@@ -55,6 +56,6 @@ Bye
 Your input -> /stop
 ```                                                                                                                                                                                              
 
-Reference
+#### Reference
 
 [https://rasa.com/docs/getting-started/]
