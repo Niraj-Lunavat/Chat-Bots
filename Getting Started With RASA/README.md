@@ -41,5 +41,4 @@ This example contains some training data and the main files needed to build an a
 
 Bot loaded. Type a message and press enter (use '/stop' to exit): Your input -> hi Hey! How are you? Your input -> perfect Great, carry on! Your input -> are you a bot? I am a bot, powered by Rasa. Your input -> /stop
 Reference
-
-    (https://rasa.com/docs/getting-started/)
+[https://rasa.com/docs/getting-started/]
