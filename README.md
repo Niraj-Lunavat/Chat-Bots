@@ -2,14 +2,6 @@
 
 > Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
 
-### We also run one of the most active Facebook communities (1100+ members) and Telegram channel (1,700+ members) about voice assistants.
-
-You can request access here:
-
-1. Facebook group: https://www.facebook.com/groups/storylinecommunity
-
-2. Telegram channel (hot industry news & insights): https://t.me/botcube
-
 ## Table of Contents
 - [Voice bots](#voice-bots)
 - [Newsletters](#newsletters)
